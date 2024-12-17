@@ -46,7 +46,7 @@ Model pembelajaran mesin pada FutureMates:
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd FutureMates/backend
+   cd FutureMates/frontend
    ```
 3. Konfigurasi database di `application.properties`:
    ```properties

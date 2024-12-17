@@ -14,7 +14,7 @@ FutureMates adalah sebuah platform berbasis web yang dirancang untuk membantu in
 ---
 
 ## **Teknologi yang Digunakan**
-- **Backend**: Java Spring Boot
+- **Backend**: Java Spring Boot (mengambil hasil dari API Python)
 - **Frontend**: Thymeleaf Template Engine
 - **Database**: MySQL
 - **Keamanan**: Spring Security
